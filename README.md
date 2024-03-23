@@ -1,14 +1,20 @@
 <h1>Hey, I'm Ankur! <br/><a href="https://www.linkedin.com/in/profile-abhat/">Software Engineer</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>🌐 Profile Website:</h2>
 
+  - [abhat.io](https://abhat.io/)
+
+ 
+<h2>👨🏻‍💻 Independent Software Development Projects:</h2>
 
   - [Pilly Intro](https://github.com/abGit9/Pilly_Intro)
   - [Profile Web](https://github.com/abGit9/Profile_Web)
+  - [Med_Label_Reader](https://github.com/abGit9/Med_Label_Reader)
 
-<h2>Certifications</h2>
-
-- [Machine Learning Certificate](https://abhat.io/app/certificates/certificates.html)
+<h2>👨‍💻 Open Source Software:</h2>
+  
+  - [RecurringExpenseTracker](https://github.com/abGit9/RecurringExpenseTracker)
+  - [LibreTube](https://github.com/abGit9/LibreTube)
 
 
 <h2> 🤳 Connect with me:</h2>
