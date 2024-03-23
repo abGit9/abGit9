@@ -1,8 +1,81 @@
+<h1>🖐️Hello, I'm Ankur. </h1>
+<p>Welcome to my GitHub profile!</p>
+<p>As a software engineer, I thrive on collaboration with passionate and dedicated developers who share a keen eye for detail in design. My primary focus is on Android development, but I also explore other platforms. Below, you'll find projects that I've single-handedly brought from concept to launch, alongside contributions I've made to open-source initiatives. I'm always eager to connect, so don't hesitate to reach out. I'm open to discussions, both technical and beyond!</p>
+<p><a href="https://www.linkedin.com/in/profile-abhat/">Connect with me</a>
+<img align ="center" alt="AnkurBhat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</p>
+<h2>👨🏻‍💻 Independent Software Development Projects</h2>
+<ul>
+    <li>📱 Android:            <a href="https://github.com/abGit9/Pilly_Intro">Pilly App</a></li>
+    <li>🌐 Web:                <a href="https://github.com/abGit9/Profile_Web">Online Profile</a></li>
+    <li>☁️ Google Cloud:       <a href="https://github.com/abGit9/Med_Label_Reader">Med_Label_Reader</a></li>
+</ul>
+
+
+
+
+<h2>👨🏻‍💻  Open Source Software Development Projects</h2>
+<ul>
+<li><a href="https://github.com/abGit9/LibreTube">LibreTube</a></li>  
+
+<details>
+  <summary>My contributions</summary>    
+  
+  - [Bug Fix](https://github.com/libre-tube/LibreTube/pull/5486) Resolved issue where navigating back from a video incorrectly displayed the search history instead of channel page.
+  - [Bug Fix](https://github.com/libre-tube/LibreTube/pull/5607) Eliminated stuttering issues occurring with scrolling lists that dynamically update. Designed and implemented a robust layout pattern consistently applied across various lists to ensure a smoother user experience.
+  
+</details>
+<li><a href="https://github.com/abGit9/RecurringExpenseTracker">RecurringExpenseTracker</a></li>  
+
+<details>
+  <summary>My contributions</summary>    
+  
+  - [Feature](https://github.com/DennisBauer/RecurringExpenseTracker/pull/156) Launched a new capability for visualizing expenses through a grid, enhancing the user experience by providing an alternative to the traditional row display. This addition allows for a more visually compact overview of expenses. 
+  - [Feature](https://github.com/DennisBauer/RecurringExpenseTracker/pull/159) Expanded the grid layout option to encompass Upcoming Payments, offering users a consistent and straightforward navigation experience throughout the payment interfaces.
+  
+</details>
+
+
+</ul>
+<!--
+  <li><h2>LibreTube</h2></li>
+
+  - [🌐 Profile Website](https://abhat.io/)
+<details>
+
+  <summary>🌐 Visit My Profile</summary>
+    <p><a href="https://abhat.io/">🌐 Profile Website</a></p>
+    <summary> [🌐 Profile Website](https://abhat.io/)</summary>
+    <p>HTML stands for HyperText Markup Language. It's the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.</p>
+</details>
+
+<details>
+    <summary>Why is CSS important?</summary>
+    <p>CSS (Cascading Style Sheets) is used to style and layout web pages — for example, to alter the font, color, size, and spacing of your content, split it into multiple columns, or add animations and other decorative features.</p>
+</details>
+
+<details>
+    <summary>Can I create interactive websites without JavaScript?</summary>
+    <p>While JavaScript is essential for creating highly interactive websites, it's possible to create basic forms of interactivity using only HTML and CSS. This includes using the <code>&lt;details&gt;</code> and <code>&lt;summary&gt;</code> elements for collapsible content, CSS pseudo-classes for interactive styles, and the HTML <code>&lt;form&gt;</code> element to capture user inputs.</p>
+</details>
+
+</body>
+</html>
+
+
+
+<h2>👨‍💻 Open Source Software:</h2>
+  <details>
+    <summary>LibreTube</summary>
+    <p>CSS (Cascading Style Sheets) is used to style and layout web pages — for example, to alter the font, color, size, and spacing of your content, split it into multiple columns, or add animations and other decorative features.</p>
+</details>
+  - [RecurringExpenseTracker](https://github.com/abGit9/RecurringExpenseTracker)
+  - [LibreTube](https://github.com/abGit9/LibreTube)
 <h1>Hey, I'm Ankur! <br/><a href="https://www.linkedin.com/in/profile-abhat/">Software Engineer</a></h1>
 
 <h2>🌐 Profile Website:</h2>
 
-  - [abhat.io](https://abhat.io/)
+  - [🌐 Profile Website](https://abhat.io/)
 
  
 <h2>👨🏻‍💻 Independent Software Development Projects:</h2>
@@ -26,6 +99,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/profile-abhat/
+-->
 <!--
 ### Hi there 👋
 
