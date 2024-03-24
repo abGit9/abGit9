@@ -9,6 +9,7 @@
     <li>📱 Android:            <a href="https://github.com/abGit9/Pilly_Intro">Pilly App</a></li>
     <p>An interactive android app designed to remind users when to take their medications by allowing them to set specific reminder times.</p>
     <li>🌐 Web:                <a href="https://github.com/abGit9/Profile_Web">Online Profile</a></li>
+    <p>Seeking to add a personal touch to my resume, I developed an extensive profile website. This site features several pages showcasing my background and experiences, enriched with numerous animations. Feel free to explore!</p>
     <li>☁️ Google Cloud:       <a href="https://github.com/abGit9/Med_Label_Reader">Med_Label_Reader</a></li>
 </ul>
 
