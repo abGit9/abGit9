@@ -11,6 +11,7 @@
     <li>🌐 Web:                <a href="https://github.com/abGit9/Profile_Web">Online Profile</a></li>
     <p>Seeking to add a personal touch to my resume, I developed an extensive profile website. This site features several pages showcasing my background and experiences, enriched with numerous animations. Feel free to explore!</p>
     <li>☁️ Google Cloud:       <a href="https://github.com/abGit9/Med_Label_Reader">Med_Label_Reader</a></li>
+    <p>To address user feedback on the lengthy medical data entry process in my Pilly app, I developed a web service that simplifies this by reading medication labels. Users just snap a photo of their medication label, upload it, and receive the essential med data in return.</p>
 </ul>
 
 <h2>👨🏻‍💻  Open Source Software Development Projects</h2>
