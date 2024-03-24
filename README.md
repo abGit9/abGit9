@@ -7,12 +7,10 @@
 <h2>👨🏻‍💻 Independent Software Development Projects</h2>
 <ul>
     <li>📱 Android:            <a href="https://github.com/abGit9/Pilly_Intro">Pilly App</a></li>
+    <p>An interactive android app designed to remind users when to take their medications by allowing them to set specific reminder times.</p>
     <li>🌐 Web:                <a href="https://github.com/abGit9/Profile_Web">Online Profile</a></li>
     <li>☁️ Google Cloud:       <a href="https://github.com/abGit9/Med_Label_Reader">Med_Label_Reader</a></li>
 </ul>
-
-
-
 
 <h2>👨🏻‍💻  Open Source Software Development Projects</h2>
 <ul>
@@ -21,9 +19,9 @@
 <details>
   <summary>My contributions</summary>    
   
-  - [Bug Fix](https://github.com/libre-tube/LibreTube/pull/5486) Resolved issue where navigating back from a video incorrectly displayed the search history instead of channel page.
-  - [Bug Fix](https://github.com/libre-tube/LibreTube/pull/5607) Eliminated stuttering issues occurring with scrolling lists that dynamically update. Designed and implemented a robust layout pattern consistently applied across various lists to ensure a smoother user experience.
   
+  - [Bug Fix](https://github.com/libre-tube/LibreTube/pull/5607) Eliminated stuttering issues occurring with scrolling lists that dynamically update. Designed and implemented a robust layout pattern consistently applied across various lists to ensure a smoother user experience.
+  - [Bug Fix](https://github.com/libre-tube/LibreTube/pull/5486) Resolved issue where navigating back from a video incorrectly displayed the search history instead of channel page.
 </details>
 <li><a href="https://github.com/abGit9/RecurringExpenseTracker">RecurringExpenseTracker</a></li>  
 
