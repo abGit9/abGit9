@@ -1,6 +1,6 @@
 <h1>🖐️Hello, I'm Ankur. </h1>
 <p>Welcome to my GitHub profile!</p>
-<p>As a software engineer, I thrive on collaboration with passionate and dedicated developers who share a keen eye for detail in design. My primary focus is on Android development, but I also explore other platforms. Below, you'll find projects that I've single-handedly brought from concept to launch, alongside contributions I've made to open-source initiatives. I'm always eager to connect, so don't hesitate to reach out. I'm open to discussions, both technical and beyond!</p>
+<p>As a software engineer, I thrive on collaboration with passionate and dedicated developers who share a keen eye for detail in design. My primary focus is on Android development, but I also explore other platforms. Below, you'll find projects that I've single-handedly brought from concept to launch, alongside contributions I've made to open-source initiatives. I'm always eager to connect, so don't hesitate to reach out.</p>
 <p><a href="https://www.linkedin.com/in/profile-abhat/">Connect with me</a>
 <img align ="center" alt="AnkurBhat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </p>
