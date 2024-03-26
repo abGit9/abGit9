@@ -5,7 +5,7 @@
 </p>
 <h2>👨🏻‍💻 Independent Software Development Projects</h2>
 <ul>
-    <li>📱 Android:            <a href="https://github.com/abGit9/Pilly_Intro">Pilly App</a></li>
+    <li>📱 Android:            <a href="https://github.com/abGit9/Pilly_Intro">Pilly App</a> <a href="https://play.google.com/store/apps/details?id=com.panacea.pilly&hl=en_US"></a></li>
     <p>An interactive android app designed to remind users when to take their medications by allowing them to set specific reminder times.</p>
     <li>🌐 Web:                <a href="https://github.com/abGit9/Profile_Web">Online Profile</a></li>
     <p>Seeking to add a personal touch to my resume, I developed an extensive profile website. This site features several pages showcasing my background and experiences, enriched with numerous animations. Feel free to explore!</p>
