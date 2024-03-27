@@ -1,11 +1,13 @@
 <h1>🖐️Hi, I'm Ankur. </h1>
-<p>Welcome to my GitHub profile! As a software engineer, I thrive on collaborating with passionate developers who share a keen eye for detailed design.  Although my focus is in android, I do like to venture out and explore new platforms. Whether it is building websites or employing cutting edge apis from Google Vision, I embrace both frontend and backend technologies to create a seamless user experience. Below, you'll find projects that I've single-handedly brought from concept to launch, alongside contributions I've made to open-source initiatives. Whether you're interested in collaborating or just want to share some ideas, feel free to reach out.</p>
+<p>Welcome to my GitHub profile! As a software engineer, I thrive on collaborating with developers who are passionate and share a keen eye for meticulous design. Although my focus is in android, I do like to venture out and explore new platforms. Whether it is building websites or employing cutting edge apis from Google Vision, I like to leverage both frontend and backend technologies to create a seamless and satisfying user experience. Below, you'll find projects that I've single-handedly taken from concept to launch, alongside contributions I've made to open-source initiatives. Whether you're interested in collaborating or just want to talk some tech and share some ideas, feel free to reach out. My door is always open.</p>
 <p><a href="https://www.linkedin.com/in/profile-abhat/">Connect with me</a>
 <img align ="center" alt="AnkurBhat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </p>
 <h2>👨🏻‍💻 Independent Software Development Projects</h2>
 <ul>
-    <li>📱 Android:            <a href="https://github.com/abGit9/Pilly_Intro">Pilly App</a> <a href="https://play.google.com/store/apps/details?id=com.panacea.pilly&hl=en_US"></a></li>
+    <li>📱 Android: <a href="https://github.com/abGit9/Pilly_Intro">Pilly App</a> 
+        <a href="https://play.google.com/store/apps/details?id=com.panacea.pilly&hl=en_US">
+        <img align ="center" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height='30'/></a></li>   
     <p>An interactive android app designed to remind users when to take their medications by allowing them to set specific reminder times.</p>
     <li>🌐 Web:                <a href="https://github.com/abGit9/Profile_Web">Online Profile</a></li>
     <p>Seeking to add a personal touch to my resume, I developed an extensive profile website. This site features several pages showcasing my background and experiences, enriched with numerous animations. Feel free to explore!</p>
