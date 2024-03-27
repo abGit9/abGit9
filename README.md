@@ -5,10 +5,15 @@
 </p>
 <h2>👨🏻‍💻 Independent Software Development Projects</h2>
 <ul>
-    <li>📱 Android: <a href="https://github.com/abGit9/Pilly_Intro">Pilly App</a> 
-        <a href="https://play.google.com/store/apps/details?id=com.panacea.pilly&hl=en_US">
-        <img align ="center" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height='30'/></a></li>   
+    <li>📱 Android:</li>  
+    <p align = "center">Pilly</p>
+    <p align ="center"> <img align = "center" alt = "Pill Icon" src = "images/pill.png" align="center" height = "70"/></p>    
+    <!-- <a href="https://github.com/abGit9/Pilly_Intro">Pilly App</a> 
+        <a href="https://play.google.com/store/apps/details?id=com.panacea.pilly&hl=en_US"> -->
+    <p align = "center"> <img  alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'height='55' /></a></p>
+    <p align = "center"> <i>Google Play and the Google Play logo are trademarks of Google LLC.</i></p>
     <p>An interactive android app designed to remind users when to take their medications by allowing them to set specific reminder times.</p>
+    <p><span>Repo: </span><a href="https://github.com/abGit9/Pilly_Intro">Pilly Intro</a> </p>
     <li>🌐 Web:                <a href="https://github.com/abGit9/Profile_Web">Online Profile</a></li>
     <p>Seeking to add a personal touch to my resume, I developed an extensive profile website. This site features several pages showcasing my background and experiences, enriched with numerous animations. Feel free to explore!</p>
     <li>☁️ Google Cloud:       <a href="https://github.com/abGit9/Med_Label_Reader">Med_Label_Reader</a></li>
