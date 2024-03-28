@@ -1,13 +1,13 @@
 <h1>🖐️Hi, I'm Ankur. </h1>
-<p>Welcome to my GitHub profile! As a software engineer, I thrive on collaborating with developers who are passionate and share a keen eye for meticulous design. Although my focus is in android, I do like to venture out and explore new platforms. Whether it is building websites or employing cutting edge apis from Google Vision, I like to leverage both frontend and backend technologies to create a seamless and satisfying user experience. Below, you'll find projects that I've single-handedly taken from concept to launch, alongside contributions I've made to open-source initiatives. Whether you're interested in collaborating or just want to talk some tech and share some ideas, feel free to reach out. My door is always open.</p>
-<p><a href="https://www.linkedin.com/in/profile-abhat/">Connect with me</a>
+<p>Welcome to my GitHub profile! As a software engineer, I thrive on collaborating with developers who are passionate and share a keen eye for meticulous design. Although my focus is in android, I do like to venture out and explore new platforms. Whether it is building websites or employing cutting edge apis from Google Vision, I like to leverage both frontend and backend technologies to create a seamless and satisfying user experience. Below, you'll find projects that I've single-handedly taken from concept to launch, alongside contributions I've made to open-source initiatives. Whether you're interested in collaborating or just want to talk some tech and share some ideas, feel free to reach out.</p>
+<p><a href="https://www.linkedin.com/in/profile-abhat/"> Let's Connect! </a>
 <img align ="center" alt="AnkurBhat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </p>
 <h2>👨🏻‍💻 Independent Software Development Projects</h2>
 <ul>
     <li>📱 Android:</li>  
     <p align = "center">Pilly</p>
-    <p align ="center"> <img align = "center" alt = "Pill Icon" src = "images/pill.png" align="center" height = "70"/></p> 
+    <p align ="center"> <a href='https://play.google.com/store/apps/details?id=com.panacea.pilly&hl=en_US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img align = "center" alt = "Pill Icon" src = "images/pill.png" align="center" height = "70"/></p> 
    <p align = "center"> <a href='https://play.google.com/store/apps/details?id=com.panacea.pilly&hl=en_US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height = "50"/></a></p>
        </p>
     <p align = "center"> <i>Google Play and the Google Play logo are trademarks of Google LLC.</i></p>
