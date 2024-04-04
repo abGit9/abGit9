@@ -17,7 +17,7 @@
 </ul>
 <h2>👨🏻‍💻  Open Source Software Development Projects</h2>
 <ul>
-<li><a href="https://github.com/abGit9/LibreTube">LibreTube</a></li>  
+<li><h3>📱Android: <a href="https://github.com/abGit9/LibreTube">LibreTube</a></h3></li>  
 
 <details>
   <summary>My contributions</summary>    
@@ -26,7 +26,7 @@
   - [Bug Fix](https://github.com/libre-tube/LibreTube/pull/5607) Eliminated stuttering issues occurring with scrolling lists that dynamically update. Designed and implemented a robust layout pattern consistently applied across various lists to ensure a smoother user experience.
   - [Bug Fix](https://github.com/libre-tube/LibreTube/pull/5486) Resolved issue where navigating back from a video incorrectly displayed the search history instead of channel page.
 </details>
-<li><a href="https://github.com/abGit9/RecurringExpenseTracker">RecurringExpenseTracker</a></li>  
+<li><h3>📱Android: <a href="https://github.com/abGit9/RecurringExpenseTracker">RecurringExpenseTracker</a></h3></li>  
 
 <details>
   <summary>My contributions</summary>    
