@@ -18,13 +18,15 @@
 <h2> Open Source Software Development Projects</h2>
 <ul>
 <li><h3>📱Android: <a href="https://github.com/abGit9/LibreTube">LibreTube</a></h3></li>  
-<ul>
+<b>My Contributions</b>
+<ul>  
     <li><a href ="https://github.com/libre-tube/LibreTube/pull/5607"><b>Bug Fix: </b></a>Eliminated stuttering issues occurring with scrolling lists that dynamically update. Designed and implemented a robust layout pattern consistently applied across various lists to ensure a smoother user experience.</li>
     <li><a href ="https://github.com/libre-tube/LibreTube/pull/5486"><b>Bug Fix: </b></a>Resolved issue where navigating back from a video incorrectly displayed the search history instead of channel page.</li>  
 </ul>
 
     
-<li><h3>📱Android: <a href="https://github.com/abGit9/RecurringExpenseTracker">RecurringExpenseTracker</a></h3></li>  
+<li><h3>📱Android: <a href="https://github.com/abGit9/RecurringExpenseTracker">RecurringExpenseTracker</a></h3></li>
+<b>My Contributions</b>
 <ul>
     <li><a href ="https://github.com/DennisBauer/RecurringExpenseTracker/pull/156"><b>Feature: </b></a>Launched a new capability for visualizing expenses through a grid, enhancing the user experience by providing an alternative to the traditional row display. This addition allows for a more visually compact overview of expenses. </li>
     <li><a href ="https://github.com/DennisBauer/RecurringExpenseTracker/pull/159"><b>Feature: </b></a>Expanded the grid layout option to encompass Upcoming Payments, offering users a consistent and straightforward navigation experience throughout the payment interfaces.</li>  
