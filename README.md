@@ -36,6 +36,13 @@ some tech, feel free to reach out. I'm always looking to get into something new.
 
 
 <!--
+
+
+
+Welcome to my GitHub profile! As a software engineer, I thrive on collaborating with developers who are passionate and share a keen eye for meticulous design. Although my focus is in android, I do like to venture out and explore new platforms. Whether it is building websites or employing cutting edge apis from Google Vision, I like to leverage both frontend and backend technologies to create a seamless and satisfying user experience. Below, you'll find projects that I've single-handedly taken from concept to launch, alongside contributions I've made to open-source initiatives. Whether you're interested in collaborating or just want to talk some tech and share some ideas, feel free to reach out.
+
+
+
 </ul>
 <details>
   <summary>My contributions</summary>    
