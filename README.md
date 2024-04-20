@@ -29,7 +29,7 @@
 </ul>
 
     
-<li><h3>📱Android:<a href="https://github.com/abGit9/RecurringExpenseTracker">RecurringExpenseTracker</a></h3></li>
+<li><h3>📱Android:<a href="https://github.com/abGit9/RecurringExpenseTracker"> RecurringExpenseTracker</a></h3></li>
 <p>A Material You tool that allows you to keep track of your monthly spending.</p>
 <b>My Contributions</b>
 <ul>
