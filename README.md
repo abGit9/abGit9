@@ -21,6 +21,7 @@
 <h2> Open Source Projects</h2>
 <ul>
 <li><h3>📱Android: <a href="https://github.com/abGit9/LibreTube">LibreTube</a></h3></li>  
+<p>A privacy-focused alternative to YouTube.</p>
 <b>My Contributions</b>
 <ul>  
     <li><a href ="https://github.com/libre-tube/LibreTube/pull/5607"><b>Bug Fix: </b></a>Eliminated stuttering issues occurring with scrolling lists that dynamically update. Designed and implemented a robust layout pattern consistently applied across various lists to ensure a smoother user experience.</li>
@@ -28,7 +29,8 @@
 </ul>
 
     
-<li><h3>📱Android: <a href="https://github.com/abGit9/RecurringExpenseTracker">RecurringExpenseTracker</a></h3></li>
+<li><h3>📱Android:<a href="https://github.com/abGit9/RecurringExpenseTracker">RecurringExpenseTracker</a></h3></li>
+<p>A Material You tool that allows you to keep track of your monthly spending.</p>
 <b>My Contributions</b>
 <ul>
     <li><a href ="https://github.com/DennisBauer/RecurringExpenseTracker/pull/156"><b>Feature: </b></a>Launched a new capability for visualizing expenses through a grid, enhancing the user experience by providing an alternative to the traditional row display. This addition allows for a more visually compact overview of expenses. </li>
