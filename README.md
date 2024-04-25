@@ -1,6 +1,6 @@
 <div align = "left" ><img align = "left" alt = "Profile Banner" height = "300px" src = "images/greeting.jpg"></img></div>
 
-<!-- <img align = "center" alt = "Profile Banner" height = "300px" src = "images/banner_adj.png" align="center" />
+<!-- <img align = "center" alt = "Profile Banner" height = "310px" src = "images/banner_adj.png" align="center" />
  <h1>🖐️Hi, I'm Ankur. </h1>-->
 <h4><p>Welcome to my GitHub profile! As a software engineer, I thrive on collaborating with developers who share my passion, dedication, and keen eye for meticulous design. Though my focus is in android, I'm always looking to venture out and explore new platforms. Whether it's crafting flashy websites or leveraging cutting edge apis like Google Vision, I'm always looking to learn. To me, the user experience is paramount; customizing it requires an agile mindset as well as a knack for teaching myself new technologies. Below, you'll see a variety of projects that I've single-handedly taken from concept to launch, alongside contributions I've made to open-source initiatives. Whether you're interested in collaborating or just want to talk some tech, feel free to reach out.</p></h4>
 <p><a href="https://www.linkedin.com/in/profile-abhat/"> Let's Connect!</a>
