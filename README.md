@@ -9,7 +9,7 @@
 <br clear="all">
 
 
-<h2 >Independent Projects</h2>
+<h2 align = "center" >Independent Projects</h2>
 <ul>   
     <li><h3> 📱Android: <a href = "https://github.com/abGit9/Pilly_Intro">Pilly</a></h3></li>   
     <div align ="center"> <img align = "center" alt = "Pill Icon" src = "images/pill.png" align="center" height = "70"/></div> 
@@ -22,7 +22,7 @@
     <li><h3>☁️ Google Cloud:       <a href="https://github.com/abGit9/Med_Label_Reader">Medication Label Reader</a></h3></li>
     <p>To address user feedback on the lengthy medical data entry process in my Pilly app, I developed a web service that simplifies this by reading medication labels. Users just snap a photo of their medication label, upload it, and receive the essential med data in return.</p>    
 </ul>
-<h2> Open Source Projects</h2>
+<h2 align = "center"> Open Source Projects</h2>
 <ul>
 <li><h3>📱Android: <a href="https://github.com/abGit9/LibreTube">LibreTube</a></h3></li>  
 <p>A privacy-focused alternative to YouTube.</p>
