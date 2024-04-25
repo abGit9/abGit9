@@ -1,4 +1,4 @@
-<div align = "left" ><img align = "left" alt = "Profile Banner" height = "400px" src = "images/greeting.jpg"></img></div>
+<div align = "left" ><img align = "left" alt = "Profile Banner" height = "300px" src = "images/greeting.jpg"></img></div>
 
 <!-- <img align = "center" alt = "Profile Banner" height = "310px" src = "images/banner_adj.png" align="center" />
  <h1>🖐️Hi, I'm Ankur. </h1>-->
