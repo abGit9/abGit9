@@ -3,10 +3,19 @@
 
 </p>
 
-<br clear="all">
+
 
 
 <h1 align = "center" >Independent Projects</h1>
+<div align = "left"><h3 align = "left"> 📱Android: <a href = "https://github.com/abGit9/Pilly_Intro">Pilly</a></h3></div>
+<div align = "right"> <img align = "right" alt = "Pill Icon" src = "images/pill.png" height = "200px"/></div> 
+<div align = "center"> <a align = "center" href='https://play.google.com/store/apps/details?id=com.panacea.pilly&hl=en_US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height = "60"/></a></div>     
+   
+<div align = "center"> <i>Google Play and the Google Play logo are trademarks of Google LLC.</i></div>
+<br>
+<div align = "left">    <p>An interactive app designed to remind users when to take their medications by allowing them to set specific reminder times.</p>  </div>   
+<br clear="all">
+
 <ul>   
     <li><h3> 📱Android: <a href = "https://github.com/abGit9/Pilly_Intro">Pilly</a></h3></li>   
     <div align ="center"> <img align = "center" alt = "Pill Icon" src = "images/pill.png" align="center" height = "70"/></div> 
