@@ -6,21 +6,18 @@
 <h2 align = "center" >Independent Projects</h2>
 <br>
 
-<img align = "right" alt = "Pill Icon" src = "images/pill.png" height = "250px"/> 
+<img align = "right" alt = "Pilly Banner" src = "images/pilly_banner.png" height = "300px"/> 
 <h3>📱Android: Pilly</h3>
-<div align = "left"><h4>An interactive app designed to remind users when to take their medications by allowing them to set specific reminder times.</h4></div> 
-<!--<h2 align = "left"> 📱Android: <a href = "https://github.com/abGit9/Pilly_Intro">Pilly</a></h2>-->
-
-<div align = "center" ><a align = "center" href='https://play.google.com/store/apps/details?id=com.panacea.pilly&hl=en_US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height = "70px"/></a></div>   
-<div align = "center" ><i align = "center">Google Play and the Google Play logo are trademarks of Google LLC.</i></div> 
-  
+<div align = "left"><p>An interactive app designed to remind users when to take their medications by allowing them to set specific reminder times.</p></div> 
+<div align = "center"><a align = "center" href='https://play.google.com/store/apps/details?id=com.panacea.pilly&hl=en_US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height = "60px"/></a></div>   
+<div align = "center"><i align = "center">Google Play and the Google Play logo are trademarks of Google LLC.</i></div>   
 <a href = "https://github.com/abGit9/Pilly_Intro">GitHub - Pilly Intro</a>
 <br clear="all">
 <br>
 <div align ="left"> <img align = "left" alt = "Profile Web Banner" src = "images/profile_web_banner_3.png" height = "300px"/></div> 
 <!--<h2>🌐Web:<a href="https://github.com/abGit9/Profile_Web"> Online Profile</a></h2>-->
 <h3 align = "center" >🌐Web: Profile</h3>
-<h4>Seeking to add a personal touch to my resume, I developed an extensive profile website. This site features several pages showcasing my background and experiences, enriched with numerous animations. Feel free to explore!</h4> 
+<p>Seeking to add a personal touch to my resume, I developed an extensive profile website. This site features several pages showcasing my background and experiences, enriched with numerous animations. Feel free to explore!</p> 
 <a href="https://abhat.io">Online Profile - abhat.io</a>
 <br>
 <a href="https://github.com/abGit9/Profile_Web">GitHub - Web</a>
@@ -29,7 +26,7 @@
 <!-- <h2>☁️ Google Cloud:<a href="https://github.com/abGit9/Med_Label_Reader"> Medication Label Reader</a></h2> -->
 <div align = "right"> <img align = "right" alt = "Med Label Reader Banner" src = "images/med_label_reader_banner.png" height = "300px"/></div> 
 <h3>☁️Google Cloud: Medication Label Reader</h3>
-<h4>To address user feedback on the lengthy medical data entry process in my Pilly app, I developed a web service that simplifies this by reading medication labels. Users just snap a photo of their medication label, upload it, and receive the essential med data in return.</h4>    
+<p>To address user feedback on the lengthy medical data entry process in my Pilly app, I developed a web service that simplifies this by reading medication labels. Users just snap a photo of their medication label, upload it, and receive the essential med data in return.</p>    
 <a href="https://abhat.io/app/software/cloud/cloud.html">abhat.io - Medication Label Reader</a>
 <br>
 <a href="https://github.com/abGit9/Med_Label_Reader"> Github - Medication Label Reader</a>
