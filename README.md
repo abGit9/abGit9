@@ -14,7 +14,7 @@
 <a href = "https://github.com/abGit9/Pilly_Intro">GitHub - Pilly Intro</a>
 <br clear="all">
 <br>
-<div align ="left"> <img align = "left" alt = "Profile Web Banner" src = "images/profile_web_banner_3.png" height = "300px"/></div> 
+<div align ="left"> <img align = "left" alt = "Profile Web Banner" src = "images/profile_web_banner_5.png" height = "300px"/></div> 
 <!--<h2>🌐Web:<a href="https://github.com/abGit9/Profile_Web"> Online Profile</a></h2>-->
 <h3 align = "center" >🌐Web: Profile</h3>
 <p>Seeking to add a personal touch to my resume, I developed an extensive profile website. This site features several pages showcasing my background and experiences, enriched with numerous animations. Feel free to explore!</p> 
