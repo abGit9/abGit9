@@ -3,7 +3,7 @@
 
 </p>
 <br clear="all">
-<h2 align = "center" >Independent Projects</h2>
+<h1 align = "center" >Independent Projects</h1>
 <br>
 
 <img align = "right" alt = "Pilly Banner" src = "images/pilly_banner.png" height = "300px"/> 
