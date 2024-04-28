@@ -30,7 +30,7 @@
 <p>To address user feedback on the lengthy medical data entry process in my Pilly app, I developed a web service that simplifies this by reading medication labels. Users just snap a photo of their medication label, upload it, and receive the essential med data in return.</p>    
 <a href="https://abhat.io/app/software/cloud/cloud.html">abhat.io - Medication Label Reader</a>
 <br>
-<a href="https://github.com/abGit9/Med_Label_Reader"> Github - Medication Label Reader</a>
+<a href="https://github.com/abGit9/Med_Label_Reader"> GitHub - Medication Label Reader</a>
 <br clear="all">
 
 <!--
