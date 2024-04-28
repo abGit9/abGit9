@@ -11,6 +11,7 @@
 <div align = "left"><p>An interactive app designed to remind users when to take their medications by allowing them to set specific reminder times.</p></div> 
 <div align = "center"><a align = "center" href='https://play.google.com/store/apps/details?id=com.panacea.pilly&hl=en_US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height = "60px"/></a></div>   
 <div align = "center"><i align = "center">Google Play and the Google Play logo are trademarks of Google LLC.</i></div>   
+<br>
 <a href = "https://github.com/abGit9/Pilly_Intro">GitHub - Pilly Intro</a>
 <br clear="all">
 <br>
