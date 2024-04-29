@@ -48,8 +48,9 @@
 </ul>-->
 <h1 align = "center" > Open Source Projects</h1>
 
-<ul>
-<li><h3>📱Android: <a href="https://github.com/abGit9/LibreTube">LibreTube</a></h3></li>  
+
+<img align = "left" alt = "LibreTube Banner" src = "images/Libre_Tube_banner_3.png" height = "400px"></img> 
+<h3>📱Android: <a href="https://github.com/abGit9/LibreTube">LibreTube</a></h3> 
 <p>A privacy-focused alternative to YouTube.</p>
 <b>My Contributions</b>
 <ul>  
@@ -57,8 +58,8 @@
     <li><a href ="https://github.com/libre-tube/LibreTube/pull/5486"><b>Bug Fix: </b></a>Resolved issue where navigating back from a video incorrectly displayed the search history instead of channel page.</li>  
 </ul>
 
-    
-<li><h3>📱Android:<a href="https://github.com/abGit9/RecurringExpenseTracker"> RecurringExpenseTracker</a></h3></li>
+<br clear="all">
+<h3>📱Android:<a href="https://github.com/abGit9/RecurringExpenseTracker"> RecurringExpenseTracker</a></h3>
 <p>A Material You tool that allows you to keep track of your monthly spending.</p>
 <b>My Contributions</b>
 <ul>
