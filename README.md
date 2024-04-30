@@ -49,7 +49,7 @@
 <h1 align = "center" > Open Source Projects</h1>
 
 
-<img align = "left" alt = "LibreTube Banner" src = "images/Libre_Tube_banner_3.png" height = "400px"></img> 
+<img align = "left" alt = "LibreTube Banner" src = "images/Libre_Tube_banner_3.png" height = "300px"></img> 
 <h3>📱Android: <a href="https://github.com/abGit9/LibreTube">LibreTube</a></h3> 
 <p>A privacy-focused alternative to YouTube.</p>
 <b>My Contributions</b>
