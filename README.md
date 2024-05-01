@@ -6,7 +6,7 @@
 <h1 align = "center" >Independent Projects</h1>
 <br>
 
-<img align = "right" alt = "Pilly Banner" src = "images/pilly_banner.png" height = "300px"/> 
+<img align = "right" alt = "Pilly Banner" src = "images/pilly_banner.png" height = "350px"/> 
 <h3>📱Android: Pilly</h3>
 <div align = "left"><p>An interactive app designed to remind users when to take their medications by allowing them to set specific reminder times.</p></div> 
 <div align = "center"><a align = "center" href='https://play.google.com/store/apps/details?id=com.panacea.pilly&hl=en_US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height = "60px"/></a></div>   
@@ -15,7 +15,7 @@
 <a href = "https://github.com/abGit9/Pilly_Intro">GitHub - Pilly Intro</a>
 <br clear="all">
 <br>
-<div align ="left"> <img align = "left" alt = "Profile Web Banner" src = "images/profile_web_banner_5.png" height = "300px"/></div> 
+<div align ="left"> <img align = "left" alt = "Profile Web Banner" src = "images/profile_web_banner_5.png" height = "350px"/></div> 
 <!--<h2>🌐Web:<a href="https://github.com/abGit9/Profile_Web"> Online Profile</a></h2>-->
 <h3 align = "center" >🌐Web: Profile</h3>
 <p>Seeking to add a personal touch to my resume, I developed an extensive profile website. This site features several pages showcasing my background and experiences, enriched with numerous animations. Feel free to explore!</p> 
@@ -25,7 +25,7 @@
 <br clear="all">
 <br>
 <!-- <h2>☁️ Google Cloud:<a href="https://github.com/abGit9/Med_Label_Reader"> Medication Label Reader</a></h2> -->
-<div align = "right"> <img align = "right" alt = "Med Label Reader Banner" src = "images/med_label_reader_banner_3.png" height = "300px"/></div> 
+<div align = "right"> <img align = "right" alt = "Med Label Reader Banner" src = "images/med_label_reader_banner_3.png" height = "350px"/></div> 
 <h3>☁️Google Cloud: Medication Label Reader</h3>
 <p>To address user feedback on the lengthy medical data entry process in my Pilly app, I developed a web service that simplifies this by reading medication labels. Users just snap a photo of their medication label, upload it, and receive the essential med data in return.</p>    
 <a href="https://abhat.io/app/software/cloud/cloud.html">abhat.io - Medication Label Reader</a>
@@ -49,7 +49,7 @@
 <h1 align = "center" > Open Source Projects</h1>
 
 
-<img align = "left" alt = "LibreTube Banner" src = "images/Libre_Tube_banner_3.png" height = "300px"></img> 
+<img align = "left" alt = "LibreTube Banner" src = "images/Libre_Tube_banner_3.png" height = "350px"></img> 
 <h3>📱Android: <a href="https://github.com/abGit9/LibreTube">LibreTube</a></h3> 
 <p>A privacy-focused alternative to YouTube.</p>
 <b>My Contributions</b>
@@ -60,7 +60,7 @@
 
 <br clear="all">
 
-<img align = "right" alt = "RecurringExpenseTracker Banner" src = "images/RecurringExpenseTracker_banner_5.png" height = "300px"></img> 
+<img align = "right" alt = "RecurringExpenseTracker Banner" src = "images/RecurringExpenseTracker_banner_5.png" height = "350px"></img> 
 <h3>📱Android:<a href="https://github.com/abGit9/RecurringExpenseTracker"> RecurringExpenseTracker</a></h3>
 <p>A Material You tool that allows you to keep track of your monthly spending.</p>
 <b>My Contributions</b>
