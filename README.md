@@ -6,7 +6,7 @@
 <h1 align = "center" >Independent Projects</h1>
 <br>
 
-<img align = "right" alt = "Pilly Banner" src = "images/pilly_banner.png" height = "300px"/> 
+<img align = "right" alt = "Pilly Banner" src = "images/pilly_banner_6.png" height = "300px"/> 
 <h3>📱Android: Pilly</h3>
 <div align = "left"><p>An interactive app designed to remind users when to take their medications by allowing them to set specific reminder times.</p></div> 
 <div align = "center"><a align = "center" href='https://play.google.com/store/apps/details?id=com.panacea.pilly&hl=en_US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height = "60px"/></a></div>   
@@ -15,7 +15,7 @@
 <a href = "https://github.com/abGit9/Pilly_Intro">GitHub - Pilly Intro</a>
 <br clear="all">
 <br>
-<div align ="left"> <img align = "left" alt = "Profile Web Banner" src = "images/profile_web_banner_7.png" height = "300px"/></div> 
+<div align ="left"> <img align = "left" alt = "Profile Web Banner" src = "images/profile_web_banner_5.png" height = "300px"/></div> 
 <!--<h2>🌐Web:<a href="https://github.com/abGit9/Profile_Web"> Online Profile</a></h2>-->
 <h3 align = "center" >🌐Web: Profile</h3>
 <p>Seeking to add a personal touch to my resume, I developed an extensive profile website. This site features several pages showcasing my background and experiences, enriched with numerous animations. Feel free to explore!</p> 
