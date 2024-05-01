@@ -25,7 +25,7 @@
 <br clear="all">
 <br>
 <!-- <h2>☁️ Google Cloud:<a href="https://github.com/abGit9/Med_Label_Reader"> Medication Label Reader</a></h2> -->
-<div align = "right"> <img align = "right" alt = "Med Label Reader Banner" src = "images/med_label_reader_banner_2.png" height = "300px"/></div> 
+<div align = "right"> <img align = "right" alt = "Med Label Reader Banner" src = "images/med_label_reader_banner_3.png" height = "300px"/></div> 
 <h3>☁️Google Cloud: Medication Label Reader</h3>
 <p>To address user feedback on the lengthy medical data entry process in my Pilly app, I developed a web service that simplifies this by reading medication labels. Users just snap a photo of their medication label, upload it, and receive the essential med data in return.</p>    
 <a href="https://abhat.io/app/software/cloud/cloud.html">abhat.io - Medication Label Reader</a>
