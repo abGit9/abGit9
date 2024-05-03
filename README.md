@@ -62,7 +62,7 @@
 
 <br clear="all">
 
-<img align = "right" alt = "RecurringExpenseTracker Banner" src = "images/RecurringExpenseTracker_banner_6.png" height = "400px"></img> 
+<img align = "right" alt = "RecurringExpenseTracker Banner" src = "images/RecurringExpenseTracker_banner_11.png" height = "400px"></img> 
 <h3>📱Android:<a href="https://github.com/abGit9/RecurringExpenseTracker"> RecurringExpenseTracker</a></h3>
 <p>A Material You tool that allows you to keep track of your monthly spending.</p>
 <b>My Contributions</b>
