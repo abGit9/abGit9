@@ -69,6 +69,7 @@
 <ul>
     <li><a href ="https://github.com/DennisBauer/RecurringExpenseTracker/pull/156"><b>Feature: </b></a>Launched a new capability for visualizing expenses through a grid, enhancing the user experience by providing an alternative to the traditional row display. This addition allows for a more visually compact overview of expenses. </li>
     <li><a href ="https://github.com/DennisBauer/RecurringExpenseTracker/pull/159"><b>Feature: </b></a>Expanded the grid layout option to encompass Upcoming Payments, offering users a consistent and straightforward navigation experience throughout the payment interfaces.</li>  
+    <li><a href ="https://github.com/DennisBauer/RecurringExpenseTracker/pull/170"><b>Feature: </b></a>Implemented scroll position retention within user sessions for both grid and traditional row views. This enhancement ensures a consistent and precise user experience across payment interfaces and viewing formats.</li>  
 </ul>
 
 
