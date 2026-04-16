@@ -46,7 +46,7 @@
 <!--<h2>🌐Web:<a href="https://github.com/abGit9/Profile_Web"> Online Profile</a></h2>-->
 <h3 align = "center" >🌐Web: Profile</h3>
 <p>Seeking to add a personal touch to my resume, I developed an extensive profile website. This site features several pages showcasing my background and experiences, enriched with numerous animations. Feel free to explore!</p> 
-<a href="https://abhat.io">Online Profile - abhat.io</a>
+<a href="https://abhat.dev">Online Profile - abhat.dev</a>
 <br>
 <a href="https://github.com/abGit9/Profile_Web">GitHub - Web</a>
 <br clear="all">
