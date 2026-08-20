@@ -4,7 +4,7 @@
 
 # Projects
 
-### 📱 Android: Pilly
+### Android: Pilly
 
 A production Android app I designed, built, launched, and maintain on Google Play, combining reliable medication scheduling with a highly customized user interface.
 
@@ -22,7 +22,7 @@ A production Android app I designed, built, launched, and maintain on Google Pla
 
 ---
 
-### ⚙️ Kotlin: Retryable Task Engine
+### Kotlin: Retryable Task Engine
 
 A Kotlin architecture exploration inspired by Android WorkManager. It separates failure classification from retry policy to explore how clearer boundaries can improve extensibility, maintainability, and testability.
 
@@ -32,7 +32,7 @@ A Kotlin architecture exploration inspired by Android WorkManager. It separates 
 
 ---
 
-### 📱 Android: LibreTube
+### Android: LibreTube
 
 A privacy-focused, open-source YouTube client.
 
@@ -43,7 +43,7 @@ A privacy-focused, open-source YouTube client.
 
 ---
 
-### 📱 Android: RecurringExpenseTracker
+### Android: RecurringExpenseTracker
 
 A **Jetpack Compose** and Material You app for tracking recurring expenses and monthly spending.
 
@@ -57,7 +57,7 @@ A **Jetpack Compose** and Material You app for tracking recurring expenses and m
 
 ---
 
-### ☁️ Google Cloud: Medication Label Reader
+### Google Cloud: Medication Label Reader
 
 Built in response to feedback that entering medication information in Pilly was time-consuming. The service uses Google Cloud Vision to extract medication data from an uploaded label.
 
@@ -69,7 +69,7 @@ Built in response to feedback that entering medication information in Pilly was 
 
 # Other Projects
 
-### 🌐 Profile Website
+### Profile Website
 
 A personal website built with HTML, CSS, and JavaScript, with a focus on dynamic interfaces, custom animations, and visual interaction.
 
