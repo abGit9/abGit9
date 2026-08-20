@@ -2,7 +2,7 @@
 
 [Let's Connect!](https://www.linkedin.com/in/profile-abhat/)
 
-# Selected Work
+# Projects
 
 ### 📱 Android: Pilly
 
