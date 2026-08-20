@@ -1,74 +1,78 @@
-<div align = "left" ><img align = "left" alt = "Profile Banner" height = "400px" src = "images/greeting.jpg"></img></div>
-<p>Welcome to my GitHub profile! As a software engineer, I thrive on collaborating with developers who share my passion, dedication, and keen eye for meticulous design. Although my focus is in android, I'm always looking to venture out and explore new platforms. Whether it's crafting flashy websites or leveraging cutting edge apis like Google Vision, I'm always looking to learn. </p><p>To me, the user experience is paramount; customizing it requires an agile mindset as well as a knack for teaching myself new technologies. Below, you'll see a variety of projects that I've single-handedly taken from concept to launch, alongside contributions I've made to open-source initiatives. Whether you're interested in collaborating or just want to talk some tech, feel free to reach out.<br></p><a align ="center" href="https://www.linkedin.com/in/profile-abhat/"> Let's Connect! <img align ="center" alt="AnkurBhat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+**I build Android software—from shipping my own production app to contributing to open-source codebases and exploring software architecture in Kotlin.**
 
-</p>
-<br clear="all">
+[Let's Connect!](https://www.linkedin.com/in/profile-abhat/)
 
-<br>
-<h1 align = "center">Engineering Explorations</h1>
-<img align = "right" alt = "Retry Engine Banner" src = "images/Retry_Engine_2.png" height = "400px"/></img> 
+# Selected Work
 
+### 📱 Android: Pilly
 
-<h3>⚙️ Kotlin: Retryable Task Engine</h3>
+A production Android app I designed, built, launched, and maintain on Google Play, combining reliable medication scheduling with a highly customized user interface.
 
-<p>
-Inspired by Android WorkManager, this Kotlin project explores whether retry systems should separate failure classification from retry policy. It investigates how clear architectural boundaries can improve extensibility, maintainability, and testability through a focused architecture exploration.
-</p>
+`Java` · `Android SDK` · `AlarmManager` · `SQLite` · `REST APIs` · `Custom Views`
 
-<a href="https://github.com/abGit9/retryable-task-engine">GitHub - Retryable Task Engine</a>
+<div align="left">
+<a href="https://play.google.com/store/apps/details?id=com.panacea.pilly&hl=en_US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">
+<img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="60px"/>
+</a>
+</div>
 
-<br clear="all">
-<h1 align = "center" > Open Source Projects</h1>
+*Google Play and the Google Play logo are trademarks of Google LLC.*
 
+[View Project](https://github.com/abGit9/Pilly_Intro)
 
-<img align = "left" alt = "LibreTube Banner" src = "images/Libre_Tube_banner_7.png" height = "400px"></img> 
-<h3>📱Android: <a href="https://github.com/abGit9/LibreTube">LibreTube</a></h3> 
-<p>A privacy-focused alternative to YouTube.</p>
-<b>My Contributions</b>
-<ul>  
-    <li><a href ="https://github.com/libre-tube/LibreTube/pull/5607"><b>Bug Fix: </b></a>Eliminated stuttering issues occurring with scrolling lists that dynamically update. Designed and implemented a robust layout pattern consistently applied across various lists to ensure a smoother user experience.</li>
-    <li><a href ="https://github.com/libre-tube/LibreTube/pull/5486"><b>Bug Fix: </b></a>Resolved issue where navigating back from a video incorrectly displayed the search history instead of channel page.</li>  
-</ul>
+---
 
-<br clear="all">
+### ⚙️ Kotlin: Retryable Task Engine
 
-<img align = "right" alt = "RecurringExpenseTracker Banner" src = "images/RecurringExpenseTracker_banner_11.png" height = "400px"></img> 
-<h3>📱Android:<a href="https://github.com/abGit9/RecurringExpenseTracker"> RecurringExpenseTracker</a></h3>
-<p>A Material You tool that allows you to keep track of your monthly spending.</p>
-<b>My Contributions</b>
-<ul>
-    <li><a href ="https://github.com/DennisBauer/RecurringExpenseTracker/pull/156"><b>Feature: </b></a>Launched a new capability for visualizing expenses through a grid, enhancing the user experience by providing an alternative to the traditional row display. This addition allows for a more visually compact overview of expenses. </li>
-    <li><a href ="https://github.com/DennisBauer/RecurringExpenseTracker/pull/159"><b>Feature: </b></a>Expanded the grid layout option to encompass Upcoming Payments, offering users a consistent and straightforward navigation experience throughout the payment interfaces.</li>  
-    <li><a href ="https://github.com/DennisBauer/RecurringExpenseTracker/pull/170"><b>Feature: </b></a>Implemented scroll position retention within user sessions for both grid and traditional row displays. This enhancement ensures a consistent and precise user experience across payment interfaces and viewing formats.</li>  
-</ul>
-<br>
-<h1 align = "center" >Independent Projects</h1>
+A Kotlin architecture exploration inspired by Android WorkManager. It separates failure classification from retry policy to explore how clearer boundaries can improve extensibility, maintainability, and testability.
 
+`Kotlin` · `Architecture` · `Retry Policy` · `Failure Classification` · `Testing`
 
-<img align = "left" alt = "Pilly Banner" src = "images/pilly_banner_a.png" height = "400px"/> 
-<h3>📱Android: Pilly</h3>
-<div align = "left"><p>An interactive app designed to remind users when to take their medications by allowing them to set specific reminder times.</p></div> 
-<div align = "center"><a align = "center" href='https://play.google.com/store/apps/details?id=com.panacea.pilly&hl=en_US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height = "60px"/></a></div>   
-<div align = "center"><i align = "center">Google Play and the Google Play logo are trademarks of Google LLC.</i></div>   
-<br>
-<a href = "https://github.com/abGit9/Pilly_Intro">GitHub - Pilly Intro</a>
-<br clear="all">
+[View Project](https://github.com/abGit9/retryable-task-engine)
 
-<img align = "right" alt = "Profile Web Banner" src = "images/profile_web_banner_7.png" height = "400px"/>
+---
 
-<h3 align = "center" >🌐Web: Profile</h3>
-<p>Seeking to add a personal touch to my resume, I developed an extensive profile website. This site features several pages showcasing my background and experiences, enriched with numerous animations. Feel free to explore!</p> 
-<a href="https://abhat.dev">Online Profile - abhat.dev</a>
-<br>
-<a href="https://github.com/abGit9/Profile_Web">GitHub - Web</a>
-<br clear="all">
+### 📱 Android: LibreTube
 
- <img align = "left" alt = "Med Label Reader Banner" src = "images/med_label_reader_banner_3.png" height = "400px"/>
-<h3>☁️Google Cloud: Medication Label Reader</h3>
-<p>To address user feedback on the lengthy medical data entry process in my Pilly app, I developed a web service that simplifies this by reading medication labels. Users just snap a photo of their medication label, upload it, and receive the essential med data in return.</p>    
-<a href="https://abhat.io/app/software/cloud/cloud.html">abhat.io - Medication Label Reader</a>
-<br>
-<a href="https://github.com/abGit9/Med_Label_Reader"> GitHub - Medication Label Reader</a>
-<br clear="all">
+A privacy-focused, open-source YouTube client.
 
+**My Contributions**
 
+* [**Bug Fix:**](https://github.com/libre-tube/LibreTube/pull/5607) Traced end-of-list scrolling stutter to the layout structure and refactored the affected screens to use a single scrolling container, eliminating the issue across multiple lists.
+* [**Bug Fix:**](https://github.com/libre-tube/LibreTube/pull/5486) Fixed back navigation from a video so users return to the originating channel page instead of search history.
+
+---
+
+### 📱 Android: RecurringExpenseTracker
+
+A **Jetpack Compose** and Material You app for tracking recurring expenses and monthly spending.
+
+**My Contributions**
+
+* [**Feature:**](https://github.com/DennisBauer/RecurringExpenseTracker/pull/156) Added a grid layout for expenses, providing a more compact alternative to the existing list view.
+* [**Feature:**](https://github.com/DennisBauer/RecurringExpenseTracker/pull/159) Extended the grid layout to Upcoming Payments for a consistent experience across payment screens.
+* [**Feature:**](https://github.com/DennisBauer/RecurringExpenseTracker/pull/170) Added scroll-position retention for both grid and list layouts during a user session.
+
+`Kotlin` · `Jetpack Compose` · `Material You`
+
+---
+
+### ☁️ Google Cloud: Medication Label Reader
+
+Built in response to feedback that entering medication information in Pilly was time-consuming. The service uses Google Cloud Vision to extract medication data from an uploaded label.
+
+`Python` · `Google Cloud` · `Vision API` · `OCR`
+
+[View Project](https://github.com/abGit9/Med_Label_Reader) · [Project Overview](https://abhat.dev/app/software/cloud/cloud.html)
+
+---
+
+# Other Projects
+
+### 🌐 Profile Website
+
+A personal website built with HTML, CSS, and JavaScript, with a focus on dynamic interfaces, custom animations, and visual interaction.
+
+`HTML` · `CSS` · `JavaScript` · `Animation`
+
+[Live Site](https://abhat.dev) · [Source](https://github.com/abGit9/Profile_Web)
