@@ -8,7 +8,7 @@
 
 A production Android app I designed, built, launched, and maintain on Google Play, combining reliable medication scheduling with a highly customized user interface.
 
-`Java` · `Android SDK` · `AlarmManager` · `SQLite` · `REST APIs` · `Custom Views`
+`Java` · `Android SDK` · `REST APIs` · `Custom Views`
 
 <div align="left">
 <a href="https://play.google.com/store/apps/details?id=com.panacea.pilly&hl=en_US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">
