@@ -41,8 +41,9 @@ A privacy-focused, open-source YouTube client.
 * [**Bug Fix:**](https://github.com/libre-tube/LibreTube/pull/5607) Traced end-of-list scrolling stutter to the layout structure and refactored the affected screens to use a single scrolling container, eliminating the issue across multiple lists.
 * [**Bug Fix:**](https://github.com/libre-tube/LibreTube/pull/5486) Fixed back navigation from a video so users return to the originating channel page instead of search history.
 
----
+`Kotlin` · `Android Views` · `RecyclerView` · `Material Components`
 
+---
 ### Android: RecurringExpenseTracker
 
 A **Jetpack Compose** and Material You app for tracking recurring expenses and monthly spending.
