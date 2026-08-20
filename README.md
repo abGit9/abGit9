@@ -1,4 +1,4 @@
-**I build Android software—from shipping my own production app to contributing to open-source codebases and exploring software architecture in Kotlin.**
+**I build Android apps, explore interesting problems, and occasionally venture beyond Android when the work takes me there.**
 
 [Let's Connect!](https://www.linkedin.com/in/profile-abhat/)
 
