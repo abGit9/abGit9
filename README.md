@@ -1,8 +1,10 @@
-**I build Android apps, explore interesting problems, and occasionally venture beyond Android when the work takes me there.**
+I build Android apps, explore interesting problems, and occasionally venture beyond Android when the work takes me there.
+
+Below are some of the projects I've built and contributed to.
 
 [Let's Connect!](https://www.linkedin.com/in/profile-abhat/)
 
-# Projects
+---
 
 ### Android: Pilly
 
@@ -15,8 +17,6 @@ A production Android app I designed, built, launched, and maintain on Google Pla
 <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="60px"/>
 </a>
 </div>
-
-*Google Play and the Google Play logo are trademarks of Google LLC.*
 
 [View Project](https://github.com/abGit9/Pilly_Intro)
 
@@ -68,7 +68,6 @@ Built in response to feedback that entering medication information in Pilly was 
 
 ---
 
-# Other Projects
 
 ### Profile Website
 
