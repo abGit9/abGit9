@@ -10,7 +10,7 @@ Below are some of the projects I've built and contributed to.
 
 A production Android app I designed, built, launched, and maintain on Google Play, combining reliable medication scheduling with a highly customized user interface.
 
-`Java` · `Android SDK` · `REST APIs` · `Custom Views`
+`Java` · `Android SDK` · `Custom Views` · `UI/UX`
 
 <div align="left">
 <a href="https://play.google.com/store/apps/details?id=com.panacea.pilly&hl=en_US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">
@@ -26,7 +26,7 @@ A production Android app I designed, built, launched, and maintain on Google Pla
 
 A Kotlin architecture exploration inspired by Android WorkManager. It separates failure classification from retry policy to explore how clearer boundaries can improve extensibility, maintainability, and testability.
 
-`Kotlin` · `Architecture` · `Retry Policy` · `Failure Classification` · `Testing`
+`Kotlin` · `Software Architecture` · `Systems Design`
 
 [View Project](https://github.com/abGit9/retryable-task-engine)
 
@@ -41,7 +41,7 @@ A privacy-focused, open-source YouTube client.
 * [**Bug Fix:**](https://github.com/libre-tube/LibreTube/pull/5607) Traced end-of-list scrolling stutter to the layout structure and refactored the affected screens to use a single scrolling container, eliminating the issue across multiple lists.
 * [**Bug Fix:**](https://github.com/libre-tube/LibreTube/pull/5486) Fixed back navigation from a video so users return to the originating channel page instead of search history.
 
-`Kotlin` · `Android Views` · `RecyclerView` · `Material Components`
+`Kotlin` · `Material Components` · `Debugging`
 
 ---
 ### Android: RecurringExpenseTracker
@@ -62,14 +62,14 @@ A **Jetpack Compose** and Material You app for tracking recurring expenses and m
 
 Built in response to feedback that entering medication information in Pilly was time-consuming. The service uses Google Cloud Vision to extract medication data from an uploaded label.
 
-`Python` · `Google Cloud` · `Vision API` · `OCR`
+`Python` · `Computer Vision` · `OCR`
 
 [View Project](https://github.com/abGit9/Med_Label_Reader) · [Project Overview](https://abhat.dev/app/software/cloud/cloud.html)
 
 ---
 
 
-### Profile Website
+### Web: Profile Website
 
 A personal website built with HTML, CSS, and JavaScript, with a focus on dynamic interfaces, custom animations, and visual interaction.
 
