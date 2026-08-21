@@ -26,7 +26,7 @@ A production Android app I designed, built, launched, and maintain on Google Pla
 
 A Kotlin architecture exploration inspired by Android WorkManager. It separates failure classification from retry policy to explore how clearer boundaries can improve extensibility, maintainability, and testability.
 
-`Kotlin` · `Software Architecture` · `Systems Design`
+`Kotlin` · `Software Architecture` · `API Design`
 
 [View Project](https://github.com/abGit9/retryable-task-engine)
 
